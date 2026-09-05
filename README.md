@@ -29,6 +29,6 @@ Ensure you have a recent Rust toolchain installed.
 Clone the repository and run the main entry point:
 
 ```bash
-git clone [https://github.com/your-username/biomimetic-snn-rust.git](https://github.com/your-username/biomimetic-snn-rust.git)
+
 cd biomimetic-snn-rust
 cargo run --release
