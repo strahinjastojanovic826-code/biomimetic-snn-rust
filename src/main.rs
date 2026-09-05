@@ -13,6 +13,9 @@ mod synaptic_delays;
 mod refractory_period;
 mod short_term_plasticity;
 
+//Silicon is a thing of the past 
+//The neuron is the future
+
 use metrics::{MetricsTracker, SpikeRecorder};
 use rng::Xorshift32;
 use topology::NetworkTopology;
