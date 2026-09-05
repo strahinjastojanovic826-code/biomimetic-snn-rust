@@ -1,0 +1,11 @@
+[package]
+name = "neuron"
+version = "0.1.0"
+edition = "2021"
+authors = ["Strale <strahinjastojanovic826@gmail.com>"]
+description = "A high-performance, zero-dependency biomimetic Spiking Neural Network simulator in pure Rust."
+license = "AGPL-3.0-or-later"
+keywords = ["snn", "neuromorphic", "biomimetic", "rust", "spiking-neural-network"]
+categories = ["science", "simulation", "hardware-support"]
+
+[dependencies]
